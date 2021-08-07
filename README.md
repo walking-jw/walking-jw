@@ -1,4 +1,12 @@
-### Hi there 👋
+Hi there! 
+
+📱 iOS App Developer
+
+✨ My Language Friends
+![java](https://img.shields.io/badge/-java-red?style=flat-square&logo=java&logoColor=white)
+![swift](https://img.shields.io/badge/-Swift-yellowgreen?style=flat-square&logo=swift&logoColor=white)
+![python](https://img.shields.io/badge/-Python-FFCC66?style=flat-square&logo=Python&logoColor=black)
+
 
 <!--
 **walking-jw/walking-jw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
