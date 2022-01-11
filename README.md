@@ -16,11 +16,3 @@
 
 #### ✨ Experience <br>
 **VOIP Solutions : Linphone, Twilio**
-
-#### ✨ I traveled wonderful place... <br>
-**Asia**<br>
-🇰🇷🇯🇵🇨🇳🇹🇭🇵🇭🇭🇰🇸🇬🇻🇳🇹🇼🇹🇷🇰🇭🇮🇩 <br>
-**Europe**<br>
-🇳🇴🇩🇰🇫🇮🇸🇪🇩🇪🇷🇺🇫🇷🇭🇷🇨🇿🇮🇹🇦🇹🇪🇸🇸🇮🇨🇭🇧🇪🇮🇸 <br>
-**America**<br>
-🇨🇦
