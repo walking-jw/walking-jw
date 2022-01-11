@@ -1,21 +1,21 @@
-Hi there! 
-
 # Park Jaewon
-### 📱 iOS & Flutter Developer
+### Android Developer
 
 #### ✨ My Language Friends<br>
-![java](https://img.shields.io/badge/-java-orange?style=flat&logo=java&logoColor=white)
-![swift](https://img.shields.io/badge/-Swift-critical?style=flat&logo=swift&logoColor=white)
-![python](https://img.shields.io/badge/-Python-blue?style=flat&logo=Python&logoColor=yellow)
+![Java](https://img.shields.io/badge/-java-orange?style=flat&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-critical?style=flat&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=Python&logoColor=yellow)
 
 #### ✨ My Tool & Framework Friends<br>
+![Android](https://img.shields.io/badge/-AndroidStudio-darkgreen?style=flat-square&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-8CBCEF?style=flat&logo=Flutter&logoColor=2060FF)
-![mysql](https://img.shields.io/badge/-MySQL-orange?style=flat-square&logo=mysql&logoColor=white)
-![eclipse](https://img.shields.io/badge/-Eclipse-333366?style=flat-square&logo=Eclipse&logoColor=white)
+![Mysql](https://img.shields.io/badge/-MySQL-orange?style=flat-square&logo=mysql&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-3333FF?style=flat-square&logo=VisualStudio&logoColor=white)
-![xcode](https://img.shields.io/badge/-Xcode-6699FF?style=flat-square&logo=Xcode&logoColor=white)
-![spring](https://img.shields.io/badge/-Spring-33CC33?style=flat-square&logo=Spring&logoColor=white)
-![android](https://img.shields.io/badge/-AndroidStudio-darkgreen?style=flat-square&logo=android&logoColor=white)
+![Xcode](https://img.shields.io/badge/-Xcode-6699FF?style=flat-square&logo=Xcode&logoColor=white)
+
+#### ✨ Experience <br>
+**VOIP Solutions : Linphone, Twilio**
 
 #### ✨ I traveled wonderful place... <br>
 **Asia**<br>
@@ -24,20 +24,3 @@ Hi there!
 🇳🇴🇩🇰🇫🇮🇸🇪🇩🇪🇷🇺🇫🇷🇭🇷🇨🇿🇮🇹🇦🇹🇪🇸🇸🇮🇨🇭🇧🇪🇮🇸 <br>
 **America**<br>
 🇨🇦
-
-
-
-<!--
-**walking-jw/walking-jw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
